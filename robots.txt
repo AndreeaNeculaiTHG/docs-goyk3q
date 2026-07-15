@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-avd3zj.cuankita.space/sitemap.xml
